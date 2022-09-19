@@ -1,10 +1,10 @@
-<h1>Здесь будут практики по Операционным Системам</h1>
+<h1 color="red">Здесь будут практики по Операционным Системам</h1>
 
 ![](https://komarev.com/ghpvc/?username=VadimKarmazin&label=PROFILE+VIEWS+(просмотров+профиля))
 
 <img src="https://c.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f80000&lines=Operation+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800080&lines=Operation+systems)](https://git.io/typing-svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimKarmazin&theme=midnight-purple)
