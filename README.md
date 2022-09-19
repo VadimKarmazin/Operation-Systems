@@ -1,4 +1,4 @@
-<h1 color="red">Здесь будут практики по Операционным Системам</h1>
+<h1>Здесь будут практики по Операционным Системам</h1>
 
 ![](https://komarev.com/ghpvc/?username=VadimKarmazin&label=PROFILE+VIEWS+(просмотров+профиля))
 
