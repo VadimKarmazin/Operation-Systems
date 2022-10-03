@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VadimKarmazin&label=PROFILE+VIEWS+(просмотров+профиля))
 
-<img src="https://c.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif">
+<img src="http://pa1.narvii.com/7476/a8cdcacda073060a588ddb52ff2df7f3ea59f425r1-540-302_00.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800080&lines=Operation+systems)](https://git.io/typing-svg)
 
