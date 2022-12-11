@@ -1,5 +1,4 @@
 from datetime import datetime
-import time
 import ctypes
 a = ctypes.c_uint(0)
 b = 2
